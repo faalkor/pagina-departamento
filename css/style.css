@@ -1,0 +1,10 @@
+.imagem-topo {
+    height: 200px;
+    overflow: hidden;
+}
+
+.imagem-topo img {
+    height: 100%;
+    width: auto;
+    display: inline;
+}
